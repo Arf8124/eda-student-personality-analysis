@@ -1,4 +1,3 @@
-# eda-student-personality-analysis
 # Data Preprocessing Python Practice
 
 Repositori ini berisi implementasi praktis tahap pra-pemrosesan data (*data preprocessing*) menggunakan Python. Proses ini merupakan langkah awal yang krusial dalam alur kerja data science untuk memastikan data bersih, konsisten, dan siap digunakan untuk tahap pemodelan machine learning.
